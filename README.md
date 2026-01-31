@@ -7,7 +7,14 @@ Hyderabad, India
 I am a graduate in Mathematics, Statistics, and Data Science with hands-on experience in data cleaning, KPI reporting, and dashboard development through a Business Analytics internship and academic projects.  
 I am Cisco and Microsoft certified in data analytics and focused on delivering accurate insights to support data-driven decision-making.
 
-## Technical Skills
+## Certifications
+- Data Analytics Essentials — Cisco Networking Academy
+- Discover Data Analysis — Microsoft
+- Get Started Building with Power BI — Microsoft
+- Copilot in Power BI — Microsoft
+- End-to-End Analytics Using Microsoft Fabric — Microsoft
+
+- ## Technical Skills
 - **Tools:** Excel, SQL, Power BI, Tableau, Python (Pandas), R (Basics)
 - **Analytics:** Data Cleaning & Preparation, Exploratory Data Analysis (EDA), KPI Tracking & Reporting
 - **Business:** Requirement Understanding, Documentation, Insight Generation
@@ -39,12 +46,6 @@ I am Cisco and Microsoft certified in data analytics and focused on delivering a
 - **Biometric Attendance System (Academic Project)**  
   Worked with structured attendance data to ensure accuracy, validation, and consistency.
 
-## Certifications
-- Data Analytics Essentials — Cisco Networking Academy
-- Discover Data Analysis — Microsoft
-- Get Started Building with Power BI — Microsoft
-- Copilot in Power BI — Microsoft
-- End-to-End Analytics Using Microsoft Fabric — Microsoft
 
 ## Education
 **B.Sc. Mathematics, Statistics & Data Science**  
