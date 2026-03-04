@@ -10,9 +10,9 @@ I am Cisco and Microsoft certified in data analytics and focused on delivering a
 ## Certifications
 - Data Analytics Essentials — Cisco Networking Academy
 - Discover Data Analysis — Microsoft
-- Get Started Building with Power BI — Microsoft
+- Power BI Fundamentals— Microsoft
 - Copilot in Power BI — Microsoft
-- End-to-End Analytics Using Microsoft Fabric — Microsoft
+- Introduction to End-to-End Analytics Using Microsoft Fabric — Microsoft
 
 - ## Technical Skills
 - **Tools:** Excel, SQL, Power BI, Tableau, Python (Pandas), R (Basics)
