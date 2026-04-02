@@ -64,11 +64,11 @@ NIZAM COLLEGE, HYDERABAD |
 
 **Intermediate (MPC)** |
 TSWRS/JC (COE), KAMMADANAM, RR DIST |
-2020-2022 |GPA: 90% |
+2020-2022 | GPA: 90% |
 
 **SSC** |
 TSWRS, ALAMPUR, J.GADWAL DIST |
-2020 |CGPA: 9.5 |
+2020 | CGPA: 9.5 |
 
 ## Connect With Me
 - LinkedIn:www.linkedin.com/in/swaroopa-rani-balgari-420973317
