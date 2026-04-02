@@ -4,7 +4,7 @@ Aspiring Data Analyst | Business Analytics
 Hyderabad, India  
 
 ## About Me
-I am a graduate in Mathematics, Statistics, and Data Science with hands-on experience in data cleaning, KPI reporting, and dashboard development through a Business Analytics internship and academic projects.  
+I am a graduate in Mathematics, Statistics, and Data Science with hands-on experience in data cleaning, KPI reporting, and dashboard development through a Business Analytics internship and projects.  
 I am Cisco and Microsoft certified in data analytics and focused on delivering accurate insights to support data-driven decision-making.
 
 ## Certifications
@@ -15,7 +15,7 @@ I am Cisco and Microsoft certified in data analytics and focused on delivering a
 - Introduction to End-to-End Analytics Using Microsoft Fabric — Microsoft
 
 - ## Technical Skills
-- **Tools:** Excel, SQL, Power BI, Tableau, Python (Pandas), R (Basics)
+- **Tools:** Excel, SQL, Power BI, Tableau, Python (Pandas, Matplotlib), R (Basics)
 - **Analytics:** Data Cleaning & Preparation, Exploratory Data Analysis (EDA), KPI Tracking & Reporting
 - **Business:** Requirement Understanding, Documentation, Insight Generation
 - **Professional:** Communication, Attention to Detail, Team Collaboration
@@ -29,22 +29,32 @@ I am Cisco and Microsoft certified in data analytics and focused on delivering a
 - Assisted in requirement documentation and workflow tracking.
 
 ## Projects
-- **Sales Forecasting & Performance Analysis (Excel, Power BI)**  
-  Analyzed monthly sales data to identify demand patterns and seasonality.  
-  Built KPIs for revenue growth and product performance.
+- **clothing-store-analysis**  
+  -  Analyzed sales data to find the best-selling clothing categories and high-revenue cities.
+  -  Studied how discounts affect overall profit to help with pricing strategies.
+  -  Link: (https://github.com/Swarooparani-Balgari/clothing-store-analysis)
 
-- **Global AI Workforce Dashboard (Tableau)**  
-  Compared AI adoption, investment, and job impact across countries using interactive dashboards.
+- **subscription-based-analysis**  
+  - Analyzed streaming service data to track monthly revenue and plan performance.
+  - Identified user retention patterns to see which subscription tiers are most popular.
+  - Link:(https://github.com/Swarooparani-Balgari/subscription-based-analysis)
 
-- **Global Supermarket Sales Dashboard (Power BI)**  
-  Analyzed 10,000+ records to evaluate region-wise and product-wise performance.  
-  Tracked profit margins, customer segments, and sales trends.
+- **electronics-store-analysis**  
+  - Evaluated sales across different electronic product types and geographic locations.
+  - Tracked total units sold vs. revenue to find the most profitable inventory items.
+  - Developed insights to help the store decide which products to restock more frequently.
+  - Link:(https://github.com/Swarooparani-Balgari/electronics-store-analysis)
 
-- **Customer Insights & Retention Analysis (Python)**  
-  Studied customer behavior to identify repeat-purchase patterns and churn factors.
+- **food-delivery-analysis**  
+  - Examined order data to find the top-selling cuisines and busiest delivery cities.
+  - Measured delivery performance and revenue distribution across different restaurant partners.
+  - Link:(https://github.com/Swarooparani-Balgari/food-delivery-analysis)
 
-- **Biometric Attendance System (Academic Project)**  
-  Worked with structured attendance data to ensure accuracy, validation, and consistency.
+- **course-revenue-data-analysis**  
+  - Calculated total earnings by analyzing student enrollments and course pricing.
+  - Ranked instructors and course categories based on their contribution to total revenue.
+  - Built a data-driven summary to show which subjects are currently in highest demand.
+  - Link:(https://github.com/Swarooparani-Balgari/course-revenue-data-analysis)
 
 
 ## Education
