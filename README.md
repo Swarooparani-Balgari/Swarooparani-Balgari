@@ -4,8 +4,8 @@ Aspiring Data Analyst | Business Analytics
 Hyderabad, India  
 
 ## About Me
-I am a graduate in Mathematics, Statistics, and Data Science with hands-on experience in data cleaning, KPI reporting, and dashboard development through a Business Analytics internship and projects.  
-I am Cisco and Microsoft certified in data analytics and focused on delivering accurate insights to support data-driven decision-making.
+I am a Certified Data Analyst with a strong mathematical and statistical foundation. My expertise lies in transforming raw, complex datasets into clear, actionable business insights.
+With a background in Mathematics, Statistics, and Data Science, I bridge the gap between technical data processing and executive decision-making. Recently, I completed a Business Analytics Internship at Cognifyz Technologies, where I specialized in KPI reporting and data validation. I am passionate about leveraging SQL, Python, and Power BI to drive efficiency and growth.
 
 ## Certifications
 - Data Analytics Essentials — Cisco Networking Academy
