@@ -71,5 +71,5 @@ TSWRS, ALAMPUR, J.GADWAL DIST
 2020 |CGPA: 9.5
 
 ## Connect With Me
-- [LinkedIn]: (https://www.linkedin.com/in/balgari-swaroopa-rani-420973317)
+- [LinkedIn]
 - [Email]: (balgariswarooparani@gmail.com)
