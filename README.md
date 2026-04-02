@@ -5,7 +5,7 @@ Hyderabad, India
 
 ## About Me
 I am a Certified Data Analyst with a strong mathematical and statistical foundation. My expertise lies in transforming raw, complex datasets into clear, actionable business insights.
-With a background in Mathematics, Statistics, and Data Science, I bridge the gap between technical data processing and executive decision-making. Recently, I completed a Business Analytics Internship at Cognifyz Technologies, where I specialized in KPI reporting and data validation. I am passionate about leveraging SQL, Python, and Power BI to drive efficiency and growth.
+With a background in Mathematics, Statistics, and Data Science, I bridge the gap between technical data processing and executive decision-making. Recently, I completed a Business Analytics Internship at Cognifyz Technologies, where I specialized in KPI reporting and data validation. I am passionate about leveraging Excel, SQL, Python, and Power BI to drive efficiency and growth.
 
 ## Certifications
 - Data Analytics Essentials — Cisco Networking Academy
