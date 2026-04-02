@@ -58,17 +58,17 @@ With a background in Mathematics, Statistics, and Data Science, I bridge the gap
 
 
 ## Education
-**B.Sc. Mathematics, Statistics & Data Science**  
-NIZAM COLLEGE, HYDERABAD
-2022-2025 | CGPA: 8.13
+**B.Sc. Mathematics, Statistics & Data Science** |
+NIZAM COLLEGE, HYDERABAD |
+2022-2025 | CGPA: 8.13 |
 
-**Intermediate (MPC)**
-TSWRS/JC (COE), KAMMADANAM, RR DIST
-2020-2022 |GPA: 90%
+**Intermediate (MPC)** |
+TSWRS/JC (COE), KAMMADANAM, RR DIST |
+2020-2022 |GPA: 90% |
 
-**SSC**
-TSWRS, ALAMPUR, J.GADWAL DIST
-2020 |CGPA: 9.5
+**SSC** |
+TSWRS, ALAMPUR, J.GADWAL DIST |
+2020 |CGPA: 9.5 |
 
 ## Connect With Me
 - LinkedIn:www.linkedin.com/in/swaroopa-rani-balgari-420973317
